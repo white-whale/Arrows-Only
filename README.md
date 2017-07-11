@@ -1,5 +1,5 @@
 # Arrows-Only
-Take old JavaScript functions and convert to them arrow syntax!
+Take old JavaScript functions and convert them to arrow syntax!
 
 ## Note: There are some special cases where using the arrow-function syntax will break your code. Always double check the new code works before deleting the old one.
 
